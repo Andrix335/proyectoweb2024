@@ -24,5 +24,12 @@ h1{
 
 .foto img{
     mix-blend-mode: darken;
+    transform: rotate(60deg);
     width: 400px;
+}
+
+.mensaje{
+    color: white;
+    font-size: 32px;
+    text-align: center;
 }
